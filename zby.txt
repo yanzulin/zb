@@ -1,4 +1,4 @@
-VIP:20270111系列,#genre#
+VIP20270111,#genre#
 Now系列,#genre#
 Now星影粤,http://rihou.cc:555/tv/[Bx]Now星影
 Now爆谷粤,http://rihou.cc:555/tv/[Bx]Now爆谷
@@ -12392,3 +12392,4 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
