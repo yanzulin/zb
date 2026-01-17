@@ -1,4 +1,13 @@
 Vip20270111,#genre#
+四川峨眉电影4K,http://60.255.72.119:4022//udp/239.132.1.87:5000
+CCTV16 4K,http://60.255.72.119:4022//udp/239.132.1.180:5000
+至臻视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1
+咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011524/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&mode=1
+睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1
+睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&mode=1
+睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1
 CCTV1,#genre#
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -13188,6 +13197,7 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
 
