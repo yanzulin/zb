@@ -1,6 +1,4 @@
 Vip20270111,#genre#
-四川峨眉电影4K,http://60.255.72.119:4022//udp/239.132.1.87:5000
-CCTV16 4K,http://60.255.72.119:4022//udp/239.132.1.180:5000
 至臻视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1
 咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1
@@ -8,32 +6,6 @@ CCTV16 4K,http://60.255.72.119:4022//udp/239.132.1.180:5000
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&mode=1
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1
-CCTV1,#genre#
-CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
-CCTV-1,http://www.negative.top:50000/rtp/233.50.201.118:5140
-CCTV-1,http://www.negative.top:50000/rtp/233.50.200.130:5140
-CCTV-1,http://www.negative.top:50000/rtp/233.50.200.247:5140
-CCTV-1,http://pr.19760929.xyz:9688/rtp/239.77.0.129:5146
-CCTV-1,http://pr.19760929.xyz:9688/rtp/239.77.0.86:5146
-CCTV-1,http://111.162.207.111:8686/udp/225.1.1.120:5002
-CCTV-1,http://111.162.207.111:8686/rtp/225.1.1.120:5002
-CCTV-1,http://113.100.31.159:4022/udp/239.77.0.129:5146
-CCTV-1,http://39.77.24.107:4002/rtp/239.253.254.77:8000
-CCTV-1,http://39.77.24.107:4002/rtp/239.253.254.89:8000
-CCTV-1,http://114.107.44.190:8188/rtp/238.1.78.166:7200
-CCTV-1,http://114.100.195.16:4022/rtp/238.1.78.166:7200
-CCTV-1,http://111.113.88.15:2000/rtp/239.121.4.113:8636
-CCTV-1,http://27.191.203.165:19999/rtp/239.254.200.45:8008
-CCTV-1,http://223.198.243.134:4000/rtp/239.253.64.120:5140
-CCTV-1,http://27.184.29.239:12312/rtp/239.254.200.45:8008
-CCTV-1,http://58.32.18.53:4022/udp/233.18.204.168:5140
-CCTV-1,http://115.171.216.188:4000/rtp/225.1.8.33:8002
-CCTV-1,http://113.119.26.1:58888/udp/239.77.1.144:5146
-CCTV-1,http://115.171.216.188:4000/rtp/225.1.8.81:8176
-CCTV-1,http://114.254.38.86:18888/rtp/239.3.1.129:8008
-CCTV-1,http://58.32.18.53:4022/udp/233.18.204.52:5140
 ﻿吉林移动,#genre#
 CCTV-1 HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EfvrOPO4PTqSZxq48sc30RQ%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=01#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EfvrOPO4PTqSZxq48sc30RQ%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=02#http://jwplay.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8?test/PLTV/=03
 CCTV-2 HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EPE2Ujig3LIJN4odZQGG-dw%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=01#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EPE2Ujig3LIJN4odZQGG-dw%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=02#http://jwplay.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8?test/PLTV/=03
@@ -13197,6 +13169,7 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
 
