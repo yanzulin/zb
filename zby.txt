@@ -6,7 +6,124 @@ Vip20270111,#genre#
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&mode=1
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1
-﻿吉林移动,#genre#
+💎央🇨🇳视💎,#genre#
+CCTV -1综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=rtPsmm&tk=GMIohWv7E7NV
+CCTV -2财经,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=mlAFA8&tk=GMIohWv7E7NV
+CCTV-3综艺,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=su02u6&tk=GMIohWv7E7NV
+CCTV-4中文国际,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=oNo1hg&tk=GMIohWv7E7NV
+CCTV-5体育,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=FpBkgu&tk=GMIohWv7E7NV
+CCTV-5＋体育赛事,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=qzo0Co&tk=GMIohWv7E7NV
+CCTV-6电影,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=2v50aF&tk=GMIohWv7E7NV
+CCTV-7国防军事,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=f18pi9&tk=GMIohWv7E7NV
+CCTV-8电视剧,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=3OnbB2&tk=GMIohWv7E7NV
+CCTV-9纪录,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=bSqeOi&tk=GMIohWv7E7NV
+CCTV-10科教,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=YnzZlq&tk=GMIohWv7E7NV
+CCTV-11戏曲,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=63CsU8&tk=GMIohWv7E7NV
+CCTV-12社会与法,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=uCQDY1&tk=GMIohWv7E7NV
+CCTV-13新闻,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=19ZWmn&tk=GMIohWv7E7NV
+CCTV-14少儿,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=TY6SZd&tk=GMIohWv7E7NV
+CCTV-15音乐,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=ClPtoJ&tk=GMIohWv7E7NV
+CCTV-16奥林匹克,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=fwupCF&tk=GMIohWv7E7NV
+CCTV-17农业农村,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=ricL8X&tk=GMIohWv7E7NV
+💎广👑东💎,#genre#
+广东体育,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=HPLgV8&tk=GMIohWv7E7NV
+广东珠江,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=5zR6e5&tk=GMIohWv7E7NV
+大湾区卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=z55ydg&tk=GMIohWv7E7NV
+广东影视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=8v3PgT&tk=GMIohWv7E7NV
+广东民生,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=yEaAcZ&tk=GMIohWv7E7NV
+广东少儿,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=XYZ4yH&tk=GMIohWv7E7NV
+广东新闻,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=RfrB8a&tk=GMIohWv7E7NV
+岭南戏曲,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=6chd9K&tk=GMIohWv7E7NV
+嘉佳卡通,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=HcBtsW&tk=GMIohWv7E7NV
+广州综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=IVa5dD&tk=GMIohWv7E7NV
+广州新闻,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=7tweNX&tk=GMIohWv7E7NV
+深圳卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=mJWT1l&tk=GMIohWv7E7NV
+深圳电视剧,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=N0thvY&tk=GMIohWv7E7NV
+深圳体育,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=WutF2W&tk=GMIohWv7E7NV
+深圳少儿,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=PYam9A&tk=GMIohWv7E7NV
+深圳宝安,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=wGC0fy&tk=GMIohWv7E7NV
+深圳龙岗,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=TzlxlZ&tk=GMIohWv7E7NV
+佛山综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=8qqyUs&tk=GMIohWv7E7NV
+佛山城市生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=pRbcKg&tk=GMIohWv7E7NV
+佛山顺德,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=WKJcgO&tk=GMIohWv7E7NV
+佛山南海,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=vNtPpg&tk=GMIohWv7E7NV
+中山综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=N2LanO&tk=GMIohWv7E7NV
+中山公共,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=muWNEh&tk=GMIohWv7E7NV
+中山教育,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=0RHRe1&tk=GMIohWv7E7NV
+珠海-1,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=OSDQYF&tk=GMIohWv7E7NV
+珠海-2,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=ZS693p&tk=GMIohWv7E7NV
+江门综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=aaPf1N&tk=GMIohWv7E7NV
+韶关新闻综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=t8NiHR&tk=GMIohWv7E7NV
+韶关绿色生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=D6xz3c&tk=GMIohWv7E7NV
+清远新闻综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=yKi7Tq&tk=GMIohWv7E7NV
+清远文旅生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=6XiOV7&tk=GMIohWv7E7NV
+肇庆综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=moyvTN&tk=GMIohWv7E7NV
+肇庆生活服务,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=bdgF6w&tk=GMIohWv7E7NV
+肇庆生活服务,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=fhJTHI&tk=GMIohWv7E7NV
+云浮综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=apvOsM&tk=GMIohWv7E7NV
+云浮综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=4K8h4R&tk=GMIohWv7E7NV
+云浮文旅,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=X7KurD&tk=GMIohWv7E7NV
+云浮文旅,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=QhmlL7&tk=GMIohWv7E7NV
+茂名综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=xxb7Fk&tk=GMIohWv7E7NV
+茂名文化生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=0neDp7&tk=GMIohWv7E7NV
+湛江综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=X6Og1E&tk=GMIohWv7E7NV
+湛江公共,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=FarBjf&tk=GMIohWv7E7NV
+徐闻综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=7v7rcz&tk=GMIohWv7E7NV
+东莞新闻综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=XJcYvn&tk=GMIohWv7E7NV
+东莞生活资讯,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=0mHr7x&tk=GMIohWv7E7NV
+惠州-1,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=KBRMek&tk=GMIohWv7E7NV
+惠州-2,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=JpBSOh&tk=GMIohWv7E7NV
+河源综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=cgQMjV&tk=GMIohWv7E7NV
+河源公共,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=59ReQd&tk=GMIohWv7E7NV
+汕尾新闻综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=oeUjUN&tk=GMIohWv7E7NV
+汕尾文化生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=Hslqwz&tk=GMIohWv7E7NV
+汕头综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=IpowZ9&tk=GMIohWv7E7NV
+汕头综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=STN9Tv&tk=GMIohWv7E7NV
+汕头生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=v0pkzE&tk=GMIohWv7E7NV
+汕头生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=tSSmNU&tk=GMIohWv7E7NV
+潮州综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=yfV2mW&tk=GMIohWv7E7NV
+潮州民生,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=5hGOju&tk=GMIohWv7E7NV
+揭阳综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=FmG8ub&tk=GMIohWv7E7NV
+揭阳生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=04cBn9&tk=GMIohWv7E7NV
+梅州综合,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=5VUJzL&tk=GMIohWv7E7NV
+梅州客家生活,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=SkDGqu&tk=GMIohWv7E7NV
+💎欧🏳️‍🌈耶💎,#genre#
+已停止服务,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=iThMio&tk=GMIohWv7E7NV
+💎卫📡视💎,#genre#
+广东卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=eu7moS&tk=GMIohWv7E7NV
+深圳卫視,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=o96KtO&tk=GMIohWv7E7NV
+北京卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=AwwYCf&tk=GMIohWv7E7NV
+东方卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=jzjNea&tk=GMIohWv7E7NV
+江苏卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=wrxlJw&tk=GMIohWv7E7NV
+浙江卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=bXJQxc&tk=GMIohWv7E7NV
+湖南卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=5DV8Mw&tk=GMIohWv7E7NV
+湖北卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=sk8Fmo&tk=GMIohWv7E7NV
+安徽卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=Uhzlu2&tk=GMIohWv7E7NV
+山东卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=z6otkA&tk=GMIohWv7E7NV
+天津卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=7AT8aS&tk=GMIohWv7E7NV
+广西卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=JSG9S9&tk=GMIohWv7E7NV
+黑龙江卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=8Ylpvr&tk=GMIohWv7E7NV
+海南卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=RvWVdD&tk=GMIohWv7E7NV
+重庆卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=zfDPcw&tk=GMIohWv7E7NV
+四川卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=tYjtAG&tk=GMIohWv7E7NV
+河南卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=bpLzMy&tk=GMIohWv7E7NV
+东南卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=lrV9xZ&tk=GMIohWv7E7NV
+贵州卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=VV42Rv&tk=GMIohWv7E7NV
+江西卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=6TRGnB&tk=GMIohWv7E7NV
+辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=Ub6uti&tk=GMIohWv7E7NV
+河北卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=0V5JjZ&tk=GMIohWv7E7NV
+陕西卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=UjXnrb&tk=GMIohWv7E7NV
+内蒙古卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=Meovoh&tk=GMIohWv7E7NV
+甘肃卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=BCXK0E&tk=GMIohWv7E7NV
+宁夏卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=YO0TKi&tk=GMIohWv7E7NV
+山西卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=g8pKVn&tk=GMIohWv7E7NV
+云南卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=29HeRX&tk=GMIohWv7E7NV
+吉林卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=JS9YIP&tk=GMIohWv7E7NV
+青海卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=bpBsO3&tk=GMIohWv7E7NV
+西藏卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=BOFK1K&tk=GMIohWv7E7NV
+新疆卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=XJ7Wyo&tk=GMIohWv7E7NV
+兵团卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=n8Hjwk&tk=GMIohWv7E7NV
+吉林移动,#genre#
 CCTV-1 HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EfvrOPO4PTqSZxq48sc30RQ%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=01#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EfvrOPO4PTqSZxq48sc30RQ%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=02#http://jwplay.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8?test/PLTV/=03
 CCTV-2 HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EPE2Ujig3LIJN4odZQGG-dw%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=01#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EPE2Ujig3LIJN4odZQGG-dw%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=02#http://jwplay.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8?test/PLTV/=03
 CCTV-3 HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EWD3QC0OhBrGT14YmWThs-g%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=01#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7EWD3QC0OhBrGT14YmWThs-g%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=02#http://jwplay.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8?test/PLTV/=03
@@ -13169,6 +13286,7 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
 
