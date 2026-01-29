@@ -16,7 +16,7 @@ CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8?jsbt=1767078752&jsbk=35e22c5b5
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
-央视，香港，台湾,#genre#
+台湾,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -13128,6 +13128,7 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
 
