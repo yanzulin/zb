@@ -959,7 +959,7 @@ CCTV发现之旅,http://jiangxun.sendsmtp.com:40222/udp/239.81.1.74:4056
 优漫卡通,http://jiangxun.sendsmtp.com:40222/udp/239.81.1.67:4056
 动漫秀场,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.68:4056
 KAKU少儿,http://jiangxun.sendsmtp.com:40222/udp/239.81.1.64:4056
-电影点播,#genre#
+电影点播EXO硬解码,#genre#
 活着,https://vip.ffzy-play.com/20221011/100_192cffb5/index.m3u8
 火烧岛,https://vip.ffzy-play6.com/20221129/9336_58c74ab9/index.m3u8
 火星没事,https://vip.ffzy-play2.com/20221021/232_89153806/index.m3u8
@@ -12717,6 +12717,7 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
 
